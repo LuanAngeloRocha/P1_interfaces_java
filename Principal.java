@@ -5,7 +5,7 @@ public class Principal {
         Aluno a= new Aluno();
         Professor p=new Professor();
         System.out.println("Aluno: ");
-        System.out.println("");
+       
         a.adicionar();
         a.excluir();
         a.pesquisar();
